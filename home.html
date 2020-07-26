@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Palette - A simple color picker</title>
+</head>
+<body>
+    <h1>Palette</h1>
+    <label for="colorPicker">Choose a color:</label>
+
+    <input type="color" 
+            value="#o0ffee" 
+            id="colorPicker">
+
+    <b>The color code: <code id="colorCode"></code></b>
+
+    <script>
+        const body = document.querySelector("body");
+        const input = document.getElementById("colorPicker");
+        const colorCode = document.getElementById("colorCode");
+
+        setColor();
+        input.addEventListener("input", setColor);
+
+        function setColor() {
+            body.style.backgroundColor = input.value;
+            colorCode.innerHTML = input.value;
+        }
+    </script>
+</body>
+</html>
