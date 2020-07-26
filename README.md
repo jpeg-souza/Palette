@@ -1,4 +1,4 @@
-![palette_img1](https://user-images.githubusercontent.com/28296264/88489378-4cc9d480-cf6a-11ea-9e06-7e194f321b99.png) ![palette_img2](https://user-images.githubusercontent.com/28296264/88489387-55baa600-cf6a-11ea-90b5-f9044d2cc677.png)
+![palette_img1](https://user-images.githubusercontent.com/28296264/88489378-4cc9d480-cf6a-11ea-9e06-7e194f321b99.png) ![palette_img2 (1)](https://user-images.githubusercontent.com/28296264/88489670-0ffedd00-cf6c-11ea-8752-c1a9903a2661.png)
 
 
 
