@@ -22,6 +22,8 @@ cd <folder-name>
 ```
 git clone https://github.com/GroovyDog/Palette.git
 
+``` 
+
 - Open the folder in VSCode
 
 - Right click on "home.html", and "Open with Live Server" option
