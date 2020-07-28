@@ -31,5 +31,9 @@ git clone https://github.com/GroovyDog/Palette.git
 # Built With
 Only HTML/CSS/JS
 
+# Contributors
+- GroovyDog
+- wevertor
+
 
 
