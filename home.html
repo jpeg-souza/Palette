@@ -3,30 +3,24 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="home.css" />
     <title>Palette - A simple color picker</title>
 </head>
 <body>
-    <h1>Palette</h1>
-    <label for="colorPicker">Choose a color:</label>
+    <div class="container">
+        <div class="box">
+            <h1>Palette</h1>
+            <label for="colorPicker">Choose a color:</label>
 
-    <input type="color" 
-            value="#o0ffee" 
-            id="colorPicker">
+            <input type="color" value="#o0ffee" id="colorPicker">
+            
+            <ul class="list">   
+                <li><p><b>Hex:  <code id="colorCode"></code></b></p></li>
+                <li><p><b>RGB:  <code id="colorRGB"></code></b></p></li>
+            </ul>
+        </div>
+    </div>
 
-    <b>The color code: <code id="colorCode"></code></b>
-
-    <script>
-        const body = document.querySelector("body");
-        const input = document.getElementById("colorPicker");
-        const colorCode = document.getElementById("colorCode");
-
-        setColor();
-        input.addEventListener("input", setColor);
-
-        function setColor() {
-            body.style.backgroundColor = input.value;
-            colorCode.innerHTML = input.value;
-        }
-    </script>
+    <script src="home.js"></script>
 </body>
 </html>
