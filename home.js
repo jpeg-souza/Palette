@@ -3,7 +3,6 @@ const input = document.getElementById("colorPicker");
 const colorCode = document.getElementById("colorCode");
 const colorRGB = document.getElementById("colorRGB");
 var c, d, e;
-var rbg;
 
 
 setColor();
