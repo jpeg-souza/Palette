@@ -1,4 +1,4 @@
-![palette 2 0](https://user-images.githubusercontent.com/28296264/88946967-42f3ea00-d266-11ea-944d-60dec79cb875.png) ![palette 2 2](https://user-images.githubusercontent.com/28296264/88947130-7b93c380-d266-11ea-9157-c6e39d73cc79.png)
+![palette3](https://user-images.githubusercontent.com/28296264/89105246-e1628580-d3f5-11ea-9fde-531a2a758c7f.png)![palette 2 2](https://user-images.githubusercontent.com/28296264/88947130-7b93c380-d266-11ea-9157-c6e39d73cc79.png)
 
 
 
